@@ -1,4 +1,4 @@
-# 📊 Insurance Risk & Claims Analysis – Power BI Dashboard
+# 📊 Insurance Risk & Claims Analysis – Power BI 
 
 This project provides a complete analysis of insurance policyholders, vehicle information, and claim patterns using an interactive Power BI dashboard.  
 The goal is to help insurance companies understand risk, customer behavior, and claim trends for better decision-making.
